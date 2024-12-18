@@ -4,12 +4,15 @@
         <loc>http://www.kazhvanclub.com/</loc>
     </url>
     <url>
+        <loc>http://www.kazhvanclub.com/events</loc>
+    </url>
+    <url>
+        <loc>http://www.kazhvanclub.com/register</loc>
+    </url>
+    <url>
         <loc>http://www.kazhvanclub.com/about</loc>
     </url>
     <url>
         <loc>http://www.kazhvanclub.com/contact</loc>
-    </url>
-    <url>
-        <loc>https://kazhvanclub.com/event/mountaineering1403</loc>
     </url>
 </urlset>
